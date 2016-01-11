@@ -1,0 +1,38 @@
+c:\users\sjv2016850\documents\visual studio 2015\Projects\VideoGame\VideoGame\bin\Debug\VideoGame.exe.config
+c:\users\sjv2016850\documents\visual studio 2015\Projects\VideoGame\VideoGame\obj\Debug\VideoGame.csprojResolveAssemblyReference.cache
+c:\users\sjv2016850\documents\visual studio 2015\Projects\VideoGame\VideoGame\bin\Debug\libsndfile-1.dll
+c:\users\sjv2016850\documents\visual studio 2015\Projects\VideoGame\VideoGame\bin\Debug\openal32.dll
+c:\users\sjv2016850\documents\visual studio 2015\Projects\VideoGame\VideoGame\bin\Debug\csfml-audio-2.dll
+c:\users\sjv2016850\documents\visual studio 2015\Projects\VideoGame\VideoGame\bin\Debug\csfml-graphics-2.dll
+c:\users\sjv2016850\documents\visual studio 2015\Projects\VideoGame\VideoGame\bin\Debug\csfml-window-2.dll
+c:\users\sjv2016850\documents\visual studio 2015\Projects\VideoGame\VideoGame\bin\Debug\VideoGame.exe
+c:\users\sjv2016850\documents\visual studio 2015\Projects\VideoGame\VideoGame\bin\Debug\VideoGame.pdb
+c:\users\sjv2016850\documents\visual studio 2015\Projects\VideoGame\VideoGame\bin\Debug\Otter.dll
+c:\users\sjv2016850\documents\visual studio 2015\Projects\VideoGame\VideoGame\bin\Debug\sfmlnet-graphics-2.dll
+c:\users\sjv2016850\documents\visual studio 2015\Projects\VideoGame\VideoGame\bin\Debug\sfmlnet-window-2.dll
+c:\users\sjv2016850\documents\visual studio 2015\Projects\VideoGame\VideoGame\bin\Debug\sfmlnet-audio-2.dll
+c:\users\sjv2016850\documents\visual studio 2015\Projects\VideoGame\VideoGame\bin\Debug\Otter.pdb
+c:\users\sjv2016850\documents\visual studio 2015\Projects\VideoGame\VideoGame\bin\Debug\sfmlnet-graphics-2.xml
+c:\users\sjv2016850\documents\visual studio 2015\Projects\VideoGame\VideoGame\bin\Debug\sfmlnet-window-2.xml
+c:\users\sjv2016850\documents\visual studio 2015\Projects\VideoGame\VideoGame\bin\Debug\sfmlnet-audio-2.xml
+c:\users\sjv2016850\documents\visual studio 2015\Projects\VideoGame\VideoGame\obj\Debug\VideoGame.exe
+c:\users\sjv2016850\documents\visual studio 2015\Projects\VideoGame\VideoGame\obj\Debug\VideoGame.pdb
+C:\Users\sjv2016850\Source\Repos\SakuraiPlease\VideoGame\VideoGame\bin\Debug\VideoGame.exe.config
+C:\Users\sjv2016850\Source\Repos\SakuraiPlease\VideoGame\VideoGame\obj\Debug\VideoGame.exe
+C:\Users\sjv2016850\Source\Repos\SakuraiPlease\VideoGame\VideoGame\obj\Debug\VideoGame.pdb
+C:\Users\sjv2016850\Source\Repos\SakuraiPlease\VideoGame\VideoGame\obj\Debug\VideoGame.csprojResolveAssemblyReference.cache
+C:\Users\sjv2016850\Source\Repos\SakuraiPlease\VideoGame\VideoGame\bin\Debug\libsndfile-1.dll
+C:\Users\sjv2016850\Source\Repos\SakuraiPlease\VideoGame\VideoGame\bin\Debug\openal32.dll
+C:\Users\sjv2016850\Source\Repos\SakuraiPlease\VideoGame\VideoGame\bin\Debug\csfml-audio-2.dll
+C:\Users\sjv2016850\Source\Repos\SakuraiPlease\VideoGame\VideoGame\bin\Debug\csfml-graphics-2.dll
+C:\Users\sjv2016850\Source\Repos\SakuraiPlease\VideoGame\VideoGame\bin\Debug\csfml-window-2.dll
+C:\Users\sjv2016850\Source\Repos\SakuraiPlease\VideoGame\VideoGame\bin\Debug\VideoGame.exe
+C:\Users\sjv2016850\Source\Repos\SakuraiPlease\VideoGame\VideoGame\bin\Debug\VideoGame.pdb
+C:\Users\sjv2016850\Source\Repos\SakuraiPlease\VideoGame\VideoGame\bin\Debug\Otter.dll
+C:\Users\sjv2016850\Source\Repos\SakuraiPlease\VideoGame\VideoGame\bin\Debug\sfmlnet-graphics-2.dll
+C:\Users\sjv2016850\Source\Repos\SakuraiPlease\VideoGame\VideoGame\bin\Debug\sfmlnet-window-2.dll
+C:\Users\sjv2016850\Source\Repos\SakuraiPlease\VideoGame\VideoGame\bin\Debug\sfmlnet-audio-2.dll
+C:\Users\sjv2016850\Source\Repos\SakuraiPlease\VideoGame\VideoGame\bin\Debug\Otter.pdb
+C:\Users\sjv2016850\Source\Repos\SakuraiPlease\VideoGame\VideoGame\bin\Debug\sfmlnet-graphics-2.xml
+C:\Users\sjv2016850\Source\Repos\SakuraiPlease\VideoGame\VideoGame\bin\Debug\sfmlnet-window-2.xml
+C:\Users\sjv2016850\Source\Repos\SakuraiPlease\VideoGame\VideoGame\bin\Debug\sfmlnet-audio-2.xml
