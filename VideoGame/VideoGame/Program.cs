@@ -28,6 +28,19 @@ namespace VideoGame
            
             game.Start(scene);
         }
+
+        class SoundScene : Scene
+        {
+            public Sound SoundOne = new Sound("sound1.wav");
+        }
+
+        public Music Music = new Music("KIRBYZ.mp3");
+
+        if (Input.KeyPressed(Key.Num1))
+            {
+                SoundOne.Play();
+            }
+
     }
 
 }
