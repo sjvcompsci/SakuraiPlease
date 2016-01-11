@@ -16,6 +16,7 @@ namespace VideoGame
           
             var scene = new Scene();
             var testEntity = new Entity(350, 240);
+            // comment
            
             testEntity.AddGraphic(Image.CreateCircle( 100,Color.Red));
             
